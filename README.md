@@ -108,6 +108,3 @@ image
 ```
 
 Have fun exploring Stable Diffusion and creating stunning images with textual prompts! If you have any questions or need assistance, feel free to reach out.
-```
-
-Please replace the placeholders like `Function code here...`, `Prompt 1`, `Prompt 2`, `Prompt 3`, and other specific details with your actual code and content.
